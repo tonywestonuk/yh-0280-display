@@ -8,11 +8,11 @@ This display will have on the back YH-280v0.1.1 on the back.
 ![image](https://user-images.githubusercontent.com/14888910/205723860-62488b0c-b11e-4ffd-ba19-35e49a89a53f.png)
 
 
-Driver: ILI9341_Parallel  
+Driver: ILI9341 8 Bit Parallel.  
 Resolution: 320 x 240.
 
 ## Pinout.  
-The display has a  1 cm wide ribbon cable - a breakout board is available, however the pins seemed to be reversed on there.  So, for convenenance I've put both pin number of the ribbon cable ( first number), and the pin number of the breakout board.
+The display has a  1 cm wide ribbon cable - a breakout board is available, however the pins seemed to be reversed on there.  So, for convenience I've put both pin number of the ribbon cable ( first number), and the pin number of the breakout board.
 
 | Pin           | Function |
 | ------------- | ---------|
@@ -33,3 +33,7 @@ The display has a  1 cm wide ribbon cable - a breakout board is available, howev
 | 15 or 10      | TFT_D6   |
 | 16 or 9       | TFT_D7   |
 | 17-24 or 9-1. | Not Connected|
+
+After connecting to an ESP32, and with the library 'eTFT_SPI', with the setting "Setup14_ILI9341_Parallel",  I get this:   
+![image](https://user-images.githubusercontent.com/14888910/205724639-276af5fb-23f0-4a5f-a22e-0919ae720730.png)
+
