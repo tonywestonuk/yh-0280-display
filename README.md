@@ -9,6 +9,6 @@ Driver: ILI9341_Parallel
 
 Pinout:
 
-Pin         Function
-1 or 24     3.3v
-2 or 23.    GND
+|Pin      | Function |
+|1 or 24  | 3.3v     |
+|2 or 23  | GND      |
