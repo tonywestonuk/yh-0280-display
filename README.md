@@ -5,6 +5,8 @@ This is information about the mystery TFT display found in My-Arcade mini arcade
 
 
 This display will have on the back YH-280v0.1.1 on the back.  
+![image](https://user-images.githubusercontent.com/14888910/205723860-62488b0c-b11e-4ffd-ba19-35e49a89a53f.png)
+
 
 Driver: ILI9341_Parallel  
 Resolution: 320 x 240.
