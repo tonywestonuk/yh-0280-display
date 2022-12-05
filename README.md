@@ -12,7 +12,7 @@ Driver: ILI9341 8 Bit Parallel.
 Resolution: 320 x 240.
 
 ## Pinout.  
-The display has a  1 cm wide ribbon cable - a breakout board is available, however the pins seemed to be reversed on there.  So, for convenience I've put both pin number of the ribbon cable ( first number), and the pin number of the breakout board.
+The display has a  1 cm wide ribbon cable - a breakout board is available, however the pin numbers seemed to be reversed to what the pinout on the ribbon cable suggested.  So, for convenience I've put both pin number of the ribbon cable ( first number), and the pin number of the breakout board.
 
 | Pin           | Function |
 | ------------- | ---------|
