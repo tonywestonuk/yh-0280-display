@@ -1,11 +1,13 @@
 # yh-0280-display
 
-This is information about the mystery TFT display found in My-Arcade mini arcade machines.
+This is information about the mystery TFT display found in My-Arcade mini arcade machines.  This is the one I dismantled to investigate the display.  
+![image](https://user-images.githubusercontent.com/14888910/205723200-45ef9e3c-4e67-40b9-b353-c3d8db31a363.png)
+
 
 This display will have on the back YH-280v0.1.1 on the back.  
 
-
-Driver: ILI9341_Parallel.  
+Driver: ILI9341_Parallel  
+Resolution: 320 x 240.
 
 ## Pinout.  
 The display has a  1 cm wide ribbon cable - a breakout board is available, however the pins seemed to be reversed on there.  So, for convenenance I've put both pin number of the ribbon cable ( first number), and the pin number of the breakout board.
