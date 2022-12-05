@@ -1,10 +1,10 @@
-# yh-0280-display
+# yh-028 display
 
 This is information about the mystery TFT display found in My-Arcade mini arcade machines.  This is the one I dismantled to investigate the display.  
 ![image](https://user-images.githubusercontent.com/14888910/205723200-45ef9e3c-4e67-40b9-b353-c3d8db31a363.png)
 
 
-This display will have on the back YH-280v0.1.1 on the back.  
+This display will have on the back YH-028v0.1.1 on the back.  
 ![image](https://user-images.githubusercontent.com/14888910/205723860-62488b0c-b11e-4ffd-ba19-35e49a89a53f.png)
 
 
