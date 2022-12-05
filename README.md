@@ -2,19 +2,30 @@
 
 This is information about the mystery TFT display found in My-Arcade mini arcade machines.
 
-This display will have on the back YH-280v0.1.1 on the back.
+This display will have on the back YH-280v0.1.1 on the back.  
 
 
-Driver: ILI9341_Parallel
+Driver: ILI9341_Parallel.  
 
-Pinout:
+## Pinout.  
+The display has a  1 cm wide ribbon cable - a breakout board is available, however the pins seemed to be reversed on there.  So, for convenenance I've put both pin number of the ribbon cable ( first number), and the pin number of the breakout board.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-|Pin      | Function |
-|1 or 24  | 3.3v     |
-|2 or 23  | GND      |
+| Pin           | Function |
+| ------------- | ---------|
+| 1 or 24       | 3.3v     |
+| 2 or 23       | GND.     |
+| 3 or 22       | LED Backlight 5v |
+| 4 or 21       | Reset    |
+| 5 or 20       | TFT_CS   |
+| 6 or 19       | TFT_DC   |
+| 7 or 18       | TFT_WR   |
+| 8 or 17       | TFT_RD   |
+| 9 or 16.      | TFT_D0   |
+| 10 or 15      | TFT_D1   |
+| 11 or 14      | TFT_D2   |
+| 12 or 13      | TFT_D3   |
+| 13 or 12      | TFT_D4   |
+| 14 or 11      | TFT_D5   |
+| 15 or 10      | TFT_D6   |
+| 16 or 9       | TFT_D7   |
+| 17-24 or 9-1. | Not Connected|
