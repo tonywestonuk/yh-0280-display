@@ -32,7 +32,7 @@ The display has a  1 cm wide ribbon cable - a breakout board is available, howev
 | 14 or 11      | TFT_D5   |
 | 15 or 10      | TFT_D6   |
 | 16 or 9       | TFT_D7   |
-| 17-24 or 9-1. | Not Connected|
+| 17-24 or 8-1. | Not Connected|
 
 After connecting to an ESP32, and with the library 'eTFT_SPI', with the setting "Setup14_ILI9341_Parallel",  I get this:   
 ![image](https://user-images.githubusercontent.com/14888910/205724639-276af5fb-23f0-4a5f-a22e-0919ae720730.png)
