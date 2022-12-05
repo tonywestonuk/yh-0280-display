@@ -9,6 +9,12 @@ Driver: ILI9341_Parallel
 
 Pinout:
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 |Pin      | Function |
 |1 or 24  | 3.3v     |
 |2 or 23  | GND      |
